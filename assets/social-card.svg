@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="AI实战成长网 - AI实战成长与变现平台">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#312e81"/>
+      <stop offset="0.52" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.08"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1040" cy="80" r="180" fill="#22d3ee" opacity="0.18"/>
+  <circle cx="120" cy="560" r="220" fill="#a78bfa" opacity="0.18"/>
+  <rect x="74" y="70" width="1052" height="490" rx="34" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.24"/>
+  <text x="120" y="168" fill="#ffffff" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="48" font-weight="800">AI 实战成长网</text>
+  <text x="120" y="250" fill="#ffffff" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="64" font-weight="900">AI实战成长与变现平台</text>
+  <text x="120" y="334" fill="#dbeafe" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="31" font-weight="700">AI工具库 × 实战课程 × 任务挑战 × 成长认证 × 变现陪跑</text>
+  <text x="120" y="420" fill="#eef2ff" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="28">学AI工具，做AI作品</text>
+  <text x="120" y="466" fill="#eef2ff" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="28">练AI交付，走向AI变现</text>
+  <g transform="translate(825 380)">
+    <rect width="230" height="82" rx="24" fill="#ffffff" opacity="0.16"/>
+    <text x="34" y="52" fill="#ffffff" font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif" font-size="30" font-weight="800">实战闭环</text>
+  </g>
+</svg>

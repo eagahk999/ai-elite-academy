@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Crawl-delay: 10
+Sitemap: https://eaga-ai.github.io/ai-elite-academy/sitemap.xml
+
+User-agent: GPTBot
+Allow: /
+Disallow: /private/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /private/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /private/
+
+User-agent: Omgili
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
